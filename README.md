@@ -38,68 +38,6 @@ I build modern, scalable, and user-friendly web applications using Laravel, Tail
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,nodejs" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-### 🦷 Dental Clinic Management System
-A complete clinic management platform built with Laravel.
-
-#### Features
-- Appointment Scheduling
-- Patient Management
-- Admin Dashboard
-- Billing & Reports
-- Authentication & Roles
-- Responsive UI
-
----
-
-### 👔 AR Virtual Fitting Room
-A real-time virtual fitting room using modern web technologies.
-
-#### Features
-- Live Camera Integration
-- Virtual Outfit Overlay
-- MediaPipe Body Tracking
-- 3D Model Support
-- Snapshot Capture
-- Tailwind CSS UI
-
----
-
-### 📡 Live Streaming Monitoring System
-A Laravel-based live monitoring system with camera integration.
-
-#### Features
-- Multi-Camera Dashboard
-- Live Stream Preview
-- Snapshot Capture
-- Recording System
-- Real-time Monitoring
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unseen-Codes&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unseen-Codes&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Unseen-Codes" alt="GitHub Streak" /></a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
@@ -115,32 +53,6 @@ A Laravel-based live monitoring system with camera integration.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ⚡ Development Focus
-
-```txt
-✔ Laravel Web Applications
-✔ REST API Development
-✔ Admin Dashboards
-✔ Responsive UI/UX
-✔ Real-Time Systems
-✔ AR / AI Web Integrations
-✔ Database Design
-✔ System Optimization
-```
-
----
-
-## 🏆 Goals
-
-- Build scalable SaaS platforms
-- Master advanced Laravel architecture
-- Create AI-powered web applications
-- Develop high-quality enterprise systems
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Unseen-Codes&label=Profile%20Views&color=0e75b6&style=flat" />
