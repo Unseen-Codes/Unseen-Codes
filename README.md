@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
 Full Stack Laravel Developer • UI/UX Designer • Web System Developer
-</h3>
+</h2>
 
 <p align="center">
 I build modern, scalable, and user-friendly web applications using Laravel, Tailwind CSS, JavaScript, and modern web technologies.
