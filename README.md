@@ -1,5 +1,5 @@
 <h2 align="center">
-Full Stack Laravel Developer • UI/UX Designer • Web System Developer
+Full Stack Laravel Developer
 </h2>
 
 <p align="center">
