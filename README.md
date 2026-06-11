@@ -33,7 +33,7 @@ I build modern, scalable, and user-friendly web applications using Laravel, Tail
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,nodejs" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,nodejs,composer" />
 </p>
 
 ## 🌐 Connect With Me
