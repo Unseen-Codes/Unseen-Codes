@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Christian B. Lontayao</h1>
-
 <h3 align="center">
 Full Stack Laravel Developer • UI/UX Designer • Web System Developer
 </h3>
@@ -12,12 +10,12 @@ I build modern, scalable, and user-friendly web applications using Laravel, Tail
 
 ## 🚀 About Me
 
-- 💻 Full Stack Web Developer specializing in Laravel
-- 🛠️ Experienced in building management systems and admin dashboards
-- 🎨 Passionate about clean UI/UX and responsive design
-- 📡 Developing real-time systems, AR integrations, and live streaming solutions
-- 🌱 Currently learning advanced system architecture and AI integrations
-- ⚡ Focused on creating professional and production-ready applications
+- Full-stack web developer specializing in Laravel and modern PHP ecosystems
+- Experienced in designing and developing management systems, admin dashboards, and business applications
+- Strong focus on clean, intuitive UI/UX and fully responsive interfaces
+- Building real-time applications, AR-enhanced features, and live streaming solutions
+- Continuously improving skills in advanced system architecture and AI integration
+- Dedicated to delivering scalable, secure, and production-ready software solutions
 
 ---
 
