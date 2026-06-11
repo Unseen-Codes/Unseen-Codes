@@ -25,7 +25,7 @@ I build modern, scalable, and user-friendly web applications using Laravel, Tail
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java" />
 </p>
 
 ### Frontend
@@ -35,7 +35,7 @@ I build modern, scalable, and user-friendly web applications using Laravel, Tail
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,nodejs" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,nodejs" />
 </p>
 
 ## 🌐 Connect With Me
