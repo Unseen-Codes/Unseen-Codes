@@ -25,12 +25,12 @@ I build modern, scalable, and user-friendly web applications using Laravel, Tail
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java,python" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,livewire" />
 </p>
 
 ### Tools & Technologies
